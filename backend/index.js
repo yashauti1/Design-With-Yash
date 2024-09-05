@@ -15,7 +15,7 @@ app.use(cookieParser());
 
 // CORS configuration
 const allowedOrigins = [
-  "https://designwithyash.netlify.app/",
+  "https://designwithyash.netlify.app",
   
 ];
 
