@@ -16,7 +16,7 @@ app.use(cookieParser());
 // CORS configuration
 const allowedOrigins = [
   "http://localhost:5173",
-  "http://localhost:4000",
+  "https://design-with-yash.onrender.com",
 ];
 
 // Example error handling middleware
