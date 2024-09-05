@@ -15,7 +15,7 @@ app.use(cookieParser());
 
 // CORS configuration
 const allowedOrigins = [
-  "http://localhost:5173",
+  "https://design-with-yash.onrender.com",
   "https://design-with-yash.onrender.com",
 ];
 
