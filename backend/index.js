@@ -15,8 +15,8 @@ app.use(cookieParser());
 
 // CORS configuration
 const allowedOrigins = [
-  "https://design-with-yash.onrender.com",
-  "https://design-with-yash.onrender.com",
+  "https://designwithyash.netlify.app/",
+  
 ];
 
 // Example error handling middleware
